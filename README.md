@@ -21,3 +21,5 @@ format-prefix = "KBD"
 ```
 
 You can replace format-prefix with the symbol you like.
+
+If you want to change the up arrow that indicates uppercase into another symbol, modify CAPS_SYMBOL in the script.
